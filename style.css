@@ -125,10 +125,10 @@ a
     width: 30vh;
     text-align: left;
     font-family: 'cascadia code', 'consolas', monospace;
-    border-color: #FFFFFF;
+    border-color: #666666;
     border-width: 0.5vh;
     border-style: solid;
-    color: #FFFFFF;
+    color: #666666;
     font-size: 2vh;
     transition: 1s ease;
 }
