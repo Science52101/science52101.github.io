@@ -5,6 +5,11 @@ body
     transition: 1s ease;
 }
 
+a
+{
+    all: unset;
+}
+
 .content
 {
     display: flex;
