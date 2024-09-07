@@ -10,6 +10,11 @@ a
     all: unset;
 }
 
+button
+{
+    all: unset;
+}
+
 .content
 {
     display: flex;
