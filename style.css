@@ -63,7 +63,7 @@ button
     font-family: 'cascadia code', 'consolas', monospace;
     color: #000000;
     font-size: 5vh;
-    padding: 22.5vh;
+    padding-bottom: 22.5vh;
     padding-top: 40vh;
     width: 100%;
     margin: 0;
@@ -74,7 +74,7 @@ button
     background-position: center;
     letter-spacing: 1vh;
     transition: 0.5s ease;
-    box-shadow: 0 -2.5vh 5vh #FFFFFF inset;
+    box-shadow: 0 -5vh 10vh #FFFFFF inset;
 }
 
 .navsection
@@ -130,10 +130,10 @@ button
     width: 30vh;
     text-align: left;
     font-family: 'cascadia code', 'consolas', monospace;
-    border-color: #666666;
+    border-color: #FFFFFF;
     border-width: 0.5vh;
     border-style: solid;
-    color: #666666;
+    color: #AAAAAA;
     font-size: 2vh;
     transition: 1s ease;
 }
@@ -267,7 +267,7 @@ button
     text-shadow: 0 0 3vh #000000, 0 0 2.5vh #000000, 0 0 2vh #000000;
     letter-spacing: 0.5vh;
     transition: 0.5s ease;
-    background: linear-gradient(#00000000, #000000D0), url("./images/logoB.png");
+    background: linear-gradient(#000000C0, #000000F0), url("./images/logoB.png");
     background-size: 15vh;
     background-attachment: fixed;
     color: #FFFFFF;
