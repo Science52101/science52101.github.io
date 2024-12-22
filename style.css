@@ -281,3 +281,11 @@ button
     width: 100%;
     height: 16vh;
 }
+
+.quote
+{
+  background-color: #dddddd;
+  border-radius: 0.5vh;
+  padding-left: 0.5vh;
+  padding-right: 0.5vh;
+}
